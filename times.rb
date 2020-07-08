@@ -13,9 +13,3 @@ loop do
   break
 
 end
-
-7.times do
-  
-  puts "#{using_times}"
-  
-end
