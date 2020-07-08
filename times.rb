@@ -1,4 +1,6 @@
+
 def using_times
-  puts "#{using_times}"
-7.times 
+
+7.times { puts "Wingardium Leviosa"}
+
 end
