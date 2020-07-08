@@ -1,7 +1,7 @@
 def using_times
   
   puts "#{using_times}"
-  counter >= 7
+  if counter >= 7
   break
 
 end
