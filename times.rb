@@ -1,15 +1,6 @@
 def using_times
   
+  while using_times <= 7
   puts "#{using_times}"
-  
-end
-
-loop do
-  
-  puts "#{using_times}"
-  
-  if counter >= 7
-    
-  break
-
+  using_times += 1
 end
